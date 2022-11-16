@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning for us all </h1>
-   <h1> You are the best </h1>
+   <h1> You are the best student </h1>
 
   
 </form>
